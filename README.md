@@ -20,5 +20,6 @@ Logistic regression : 91.31%
 Artificial Neural Nets : 94.22% 
 
 
-Installation Instruction:
+## Installation Instruction:
+
 The code has been written and executed using [anaconda](https://conda.io/docs/user-guide/install/windows.html) and spyder.Tensorflow has been installed externally in anaconda evnvironment using these [instructions](https://www.tensorflow.org/install/install_windows).I would suggest not installing tensorflow through pip and use native anaconda instead. 
