@@ -7,12 +7,14 @@ The accuracy obtained using ANN is close to 95% while that obtained using logist
 
 Even though the ANN is superior in terms of accuracy compared to logistic regression the time required to train the algorith is much more than that required by logistic regression.
 
-Time comparison:
+## Time comparison:
+
 Logistic regression : 4.98sec
 
 Artificial Neural Nets : 32.99sec
 
-Accuracy:
+## Accuracy:
+
 Logistic regression : 91.31%
 
 Artificial Neural Nets : 94.22% 
