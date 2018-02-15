@@ -11,13 +11,13 @@ Even though the ANN is superior in terms of accuracy compared to logistic regres
 
 Logistic regression : 4.98sec
 
-Artificial Neural Nets : 32.99sec
+Artificial Neural Nets(4 hidden layers) : 32.99sec
 
 ## Accuracy:
 
 Logistic regression : 91.31%
 
-Artificial Neural Nets : 94.22% 
+Artificial Neural Nets(4 hidden layers) : 94.22% 
 
 
 ## Installation Instruction:
